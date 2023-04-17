@@ -7,6 +7,7 @@ The codes in this repository is mainly based on MNE python package and modified 
 
 Install Anaconda and create and activate an environment.  Install the following python packages:
 
+<pre>
 jupyterlab
 jupyter
 matplotlib
@@ -21,6 +22,7 @@ pyvista
 pyvistaqt
 pyqt5
 ipywidgets
+</pre>
 
 After installing the packages, run the following in the newly created environment:
 
