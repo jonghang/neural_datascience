@@ -1,0 +1,14 @@
+jupyterlab
+jupyter
+matplotlib
+pandas
+nibabel
+mne
+mne_bids
+nilearn
+dipy
+pyvista
+pyvistaqt
+pyqt5
+ipywidgets
+# jupyter nbextension enable --py widgetsnbextension
