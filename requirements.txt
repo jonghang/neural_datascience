@@ -2,6 +2,7 @@ jupyterlab
 jupyter
 matplotlib
 pandas
+scikit-learn
 nibabel
 mne
 mne_bids
